@@ -1,0 +1,12 @@
+{
+	"name": "find-assets-not-in-album",
+	"version": "0.0.1",
+	"type": "module",
+  "scripts": {
+    "start": "bun src/index.ts"
+  },
+  "dependencies": {
+    "immich-types": "workspace:*",
+    "typescript": "5.7.2"
+  }
+}

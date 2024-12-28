@@ -1,0 +1,8 @@
+{
+  "name": "immich-wizard",
+  "version": "1.0.0",
+  "workspaces": [
+    "packages/*",
+    "tools/*"
+  ]
+}
