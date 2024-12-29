@@ -1,0 +1,6 @@
+{
+  "extends": "@immich-wizard/tsconfig",
+  "include": [
+    "src"
+  ],
+}

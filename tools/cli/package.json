@@ -1,12 +1,13 @@
 {
-	"name": "find-assets-not-in-album",
+	"name": "@immich-wizard/cli",
 	"version": "0.0.1",
 	"type": "module",
   "scripts": {
     "start": "bun src/index.ts"
   },
   "dependencies": {
-    "immich-types": "workspace:*",
+    "@immich-wizard/immich-api": "workspace:*",
+    "@immich-wizard/tsconfig": "workspace:*",
     "typescript": "5.7.2"
   }
 }
